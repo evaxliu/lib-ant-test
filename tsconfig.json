@@ -1,6 +1,6 @@
 {
   "compilerOptions": {
-    "target": "es6",
+    "target": "es5",
     "lib": [
       "dom",
       "dom.iterable",
@@ -22,5 +22,5 @@
   },
   "include": [
     "src"
-, "src/App.test.tsx", "src/App.tsx", "src/index.tsx", "public/Conversion.js"  ]
+, "public/libantimony.js", "public/Conversion.ts", "src/testing/TestLibAntimony.js"  ]
 }
